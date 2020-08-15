@@ -1,0 +1,43 @@
+body { 
+    color: grey;
+    font-family: Arial;
+}
+
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkcyan;
+    background-color: darksalmon;
+    border: dashed;
+    width: 350px;
+    margin: 60px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+}
+
+nav{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    border: dotted;
+    width: 350px;
+    margin: 60px;
+    outline: auto;
+    background-color: olive;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#pink-background {
+    background-color: lightpink;
+}
+
+.navli {
+    float: left;
+    padding: 60px;
+  }
+  
+  .nava {
+    display: left;
+    padding: 75px;
+    background-color: lightgray;
+  }
